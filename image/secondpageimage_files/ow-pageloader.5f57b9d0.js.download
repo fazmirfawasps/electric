@@ -1,0 +1,2 @@
+"use strict";Vue.component("ow-pageloader",{_scopeId:"data-v-465f39aa",owCSS:".loader-overlay[data-v-465f39aa]{width:100vw;height:100vh;display:flex;justify-content:center;align-items:center;position:fixed;background:rgba(0,0,0,.2);z-index:9999999}",render:function(){var e=this.$createElement,e=this._self._c||e;return e("div",{staticClass:"loader-overlay"},[e("ow-spinner")],1)},staticRenderFns:[],name:"OwPageLoader"});
+//# sourceMappingURL=../sourcemap/components/ow-pageloader.5f57b9d0.js.map

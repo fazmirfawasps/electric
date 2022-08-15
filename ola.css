@@ -1,0 +1,426 @@
+body{
+    margin: 0%;
+    
+}
+#head{
+    width: 100%;
+    height: 1123px;
+    background-image: url(image/banner.jpg);
+    background-size: cover;
+
+}
+#forehead{
+    width: 60%;
+    height: 60px;
+    background-color: #242222;
+    display: grid;
+    grid-template-columns: 70px 210px 100px  ;
+    padding-left: 39%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+#iicon{
+    background-color: aqa;
+    
+}
+#iic{
+    margin-top: 8px;
+    margin-left: 15px;
+}
+#fh2{
+    background-color: aqa;
+    color: #ffffff;
+    
+
+}
+#fh2w{
+    margin-bottom: 6px;
+    font-size: larger;
+
+}
+#fh3{
+    background-color: blueiolet;
+    font: 1em sans-serif;
+    padding-top: 20px;
+    color: ;
+    font-size: 17px;
+}
+
+
+#body{
+    width: 100%;
+    height: 1150px;
+    background-color: rgb(6, 6, 6);
+    
+}
+#i{
+    
+    width: 35px;
+    height: 35px;
+    
+    
+    
+    
+    
+   
+}
+.logo{
+    margin-top:478px ;
+    margin-left: 84px;
+}
+
+#rightear{
+    width: 300px;
+    height: 800px;
+    background-color: ble;
+    margin-left: 85%;
+    margin-top: 200px;
+    display: grid;
+    grid-template-rows: 100px 100px 100px 100px 100px 100px;
+    padding-top: 10px;
+}
+#re1{
+    background-color: #fffff;
+    
+    
+}
+.re11{
+    width: 100px;
+    height: 80px;
+    background-color: auamarine;
+    padding-left: 10px;
+    font-size: 60px;
+    float: left;
+    color: #ffffff;
+    
+}
+#re12{
+    background-color: bown;
+    height: 40px;
+    width: 70px;
+    float: left;
+    margin-top: 30px;
+    font-size: x-large;
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#re2{
+    background-color: bluviolet;
+    margin-top: px;
+    padding-left: 15PX;
+    font-size: x-large;
+    color: darkgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#re3{
+    background-color: qua;
+    margin-top: 10px;
+}
+#re31{
+    width: 100px;
+    background-color: rb(117, 34, 34);
+    height: 100px;
+}
+#re4{
+    background-color: burlyood;
+}
+#re41{
+    width: 200px;
+    height: 80px;
+    background-color: auamarine;
+    padding-left: 10px;
+    font-size: 60px;
+    float: left;
+    color: #ffffff;
+    
+
+}
+#headprice{
+    width: 400px;
+    height: 100px;
+    background-color: aqumarine;
+    margin-top: -350px;
+    margin-left: 156px;
+    display: grid;
+    grid-template-rows: 40px 50px;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#hdp1{
+    background-color: brwn;
+    font-size: 19px;
+}
+#hdp2{
+
+    background-color: lue;
+    font-size: xx-large;
+    
+}
+#headbutton{
+    width: 1400px;
+    height: 100px;
+    background-color: aqumarine;
+    margin-left: 156px;
+    margin-top: 20px;
+    
+    
+
+}
+button{
+    width: 300px;
+    height: 100px;
+    font-size: x-large;
+    margin-top: 1px;
+    
+    
+}
+#b1{
+    background-color: lack;
+    background-color: #ffffff;
+}
+#b2{
+    background: linear-gradient(1turn,#000 3.7%,#2e2e2e);
+    color: #ffffff;
+
+}
+#firstlogo{
+    width: 100px;
+    height: 100px;
+    background-color:rg(140, 127, 255);
+    margin-left: 950PX;
+    margin-top: -280PX;
+}
+.screenshot{
+    margin-left: -10px;
+    margin-top: 500px;
+}
+#scs{
+    margin-top: -386px;
+    width: 600px;
+    height: 150px;
+    background-color: bue;
+    margin-left: 156px;
+}
+#chest{
+    width: 100%;
+    height: 60px;
+    background-color: #242222;
+}
+#cst1{
+    height: 40px;
+    width: 50px;
+    
+    float: left;
+    padding-top: 10px;
+    margin-left: 900px;
+    
+    
+
+}
+#cst2{
+    height: 30px;
+    width: 210px;
+    background-color: aqa;
+    float: left;
+    padding-top: 20px;
+    color: #ffffff;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    
+
+}
+ #cst3{
+    height: 30px;
+    width: 200px;
+    background-color: aqamarine;
+    float: left;
+    padding-top: 20px;
+ }  
+ #abdomen{
+    width: 100%;
+    height: 150px;
+    background-color: #fffff;
+    
+    
+ } 
+ #rabd{
+    width: 200px;
+    height: 150px;
+    
+    float: left;
+    margin-left: 60%;
+    margin-top: 100px;
+ }
+ #labd{
+    width: 200px;
+    height: 150px;
+    
+    float: left;
+    margin-left: 100PX;
+    
+ }
+ .labdlogo{
+    width: 100px;
+    height: 100px;
+ }
+ #lung{
+    width: 700px;
+    height: 200px;
+    background-color: aqamarine;
+    margin-top: 150px;
+    font-size: 55px;
+    color: #ffffff;
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+
+    
+ }
+ #upperlung{
+    width: 700px;
+    height: 80px;
+    background-color: bique;
+ }
+ #rightlung{
+    width: 700px;
+    height: 100px;
+    background-color: rg(140, 90, 29);
+    display: grid;
+    grid-template-columns: 350px 250px;
+ }
+ #ll{
+    background-color: brwn;
+    text-decoration: underline;
+    text-decoration-color: chartreuse;
+ 
+ }
+ #rl{
+    background-color: bluviolet;
+
+ }
+
+ .stomach{
+    width: 600px;
+    height: 300px;
+    background-color: blueiolet;
+    margin-left: 0px;
+ }
+ .rsth{
+    width: 350px;
+    height: 100px;
+    background-color: #aa939;
+    float: left;
+    margin-top: 0px;
+ }
+ .lsth{
+    width: 60px;
+    height: 50px;
+    background-color: #32a4e;
+    float: left;
+    margin-left: 100px;
+    margin-top: 45px;
+ }
+ .uppersth{
+    width: 350px;
+    height: 50px;
+    background-color: #2726d;
+    font-size: xx-large ;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .lowersth{
+    width: 350px;
+    height: 50px;
+    background-color: aua;
+    margin-top: 25px;
+    color: #ffffff90;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+#heart{
+    width: 1220px;
+    height: 500px;
+    background-image: url(image/ichu.jpg);
+    margin-left: 40%;
+    margin-top: -800px;
+    padding-top: 400px;
+    padding-left: 80px;
+    
+    background-repeat: no-repeat;
+}
+#hearticon{
+    width: 100px;5
+    height: 100px;
+    background-color: aua;
+    margin: auto;
+    
+    
+}
+#bubble{
+    width: 500px;
+    height: 80px;
+    background-color: aqa;
+    margin-top: -50px;
+    margin-left: 100px;
+    
+    
+} 
+ #but{
+    width:500px ;
+    height: 80px;
+    font-size: 28px;
+ }
+#pelvic{
+    width: 900px;
+    height: 100px;
+    background-image: url(image/design.png);
+    font-size: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    margin-left: 200px;
+    color: bisque;
+    background-repeat: no-repeat;
+    margin-top: 60px;
+    
+
+}
+#tail{
+    width: 100%;
+    height: 1020px;
+    box-sizing: border-box;
+    
+    
+}
+
+a{
+    color: #808080;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#t1{
+    width: 1100px;
+    height: 650px;
+    background-image: url(image/performance@3x.jpg);
+    box-sizing: border-box;
+    padding-left: 900px;
+    background-size: cover;
+    margin-left: ;
+
+}
+#t2{
+    width: 1150px;
+    height: 600px;
+    margin: auto;
+    box-sizing: border-box;
+    background-image: url(image/performance2@3x.jpg);
+    margin-left: 1100px;
+    background-size: contain;
+    margin-top: -100px;
+    background-repeat: no-repeat;
+}
+
+
+
